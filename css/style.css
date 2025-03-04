@@ -10,6 +10,10 @@ h1 {
   font-size: 1.5rem;
 }
 
+h2 {
+  margin-top: 50px;
+}
+
 p {
   color: dimgray;
 }
@@ -27,4 +31,24 @@ header,
 main,
 footer {
   padding: 20px 30px;
+}
+
+.card {
+  background-color: #fff;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.center {
+  text-align: center;
+}
+
+.text-small {
+  font-size: 0.8rem;
+  /* 80% */
+}
+
+.card h3 {
+  font-size: 1.2em;
 }
